@@ -1,0 +1,28 @@
+name: AdamBellow
+favicon: null
+layout_spectrum: 0.9143228596076369
+typography_spectrum: 0.6498937977012247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6416422307956964
+  lightness: 0.7242036527022719
+  saturation: 0.4377630085218698
+  rhythmicContrast: 0.3794308379292488
+purpose: []
